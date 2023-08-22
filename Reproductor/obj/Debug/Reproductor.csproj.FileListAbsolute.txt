@@ -1,0 +1,17 @@
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\bin\Debug\MACTrackBarLib.dll
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csprojAssemblyReference.cache
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.Reproductor.resources
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Agustin Natali\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache

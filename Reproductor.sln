@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reproductor", "Reproductor\Reproductor.csproj", "{FD18682D-49C2-45AA-AA40-4D7262E1E035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD18682D-49C2-45AA-AA40-4D7262E1E035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD18682D-49C2-45AA-AA40-4D7262E1E035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD18682D-49C2-45AA-AA40-4D7262E1E035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD18682D-49C2-45AA-AA40-4D7262E1E035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B664DF0F-C179-44A2-9858-961BA209FA93}
+	EndGlobalSection
+EndGlobal
